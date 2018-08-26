@@ -16,6 +16,14 @@
     src: url('../fonts/KodomoRounded.otf');
 }
 
+body {
+    background-image: url('../images/top-image.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+}
+
 .description {
     font-family: 'like-children-wrote';
     font-size: 2em;
